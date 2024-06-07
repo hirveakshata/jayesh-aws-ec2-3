@@ -1,0 +1,5 @@
+{
+    "name": "aws-ec2",
+    "private": true,
+    "dependencies": {}
+}
